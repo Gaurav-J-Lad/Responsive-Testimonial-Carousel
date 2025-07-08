@@ -33,6 +33,8 @@ Showcases user feedback with smooth slide animations, dot navigation, and arrow 
 
 🔗 **View it on GitHub Pages:**
 
+[https://gaurav-j-lad.github.io/Responsive-Testimonial-Carousel](https://gaurav-j-lad.github.io/Responsive-Testimonial-Carousel)
+
 ---
 
 ## 📧 Connect with Me 🎠
